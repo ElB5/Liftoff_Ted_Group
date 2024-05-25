@@ -1,5 +1,5 @@
 
-Copyright (c) [2023] [Ellen Brady, Sara Davis, Susan Dudley, Surya Kantam, Angie Zarinelli]
+Copyright (c) [2023] [(removed our names from here)]
 
                                  Apache License
                            Version 2.0, January 2004
